@@ -3,7 +3,7 @@
 Plugin Name: SDS Inactive user
 Plugin URI: http://www.sydsvenslkan.se
 Description: Add new user role (Inactive user).
-Version: 1.0
+Version: 1.1
 Author: Johannes Fosseus
 */
 
