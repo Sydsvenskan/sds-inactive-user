@@ -1,8 +1,4 @@
 {
 	"name": "Sydsvenskan/sds-inactive-user",
 	"type": "wordpress-plugin",
-	"version": "2.0",
-	"require": {
-		"composer/installers": "*"
-	}
 }
