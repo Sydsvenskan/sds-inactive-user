@@ -1,7 +1,7 @@
 sds-inactive-user
 =================
 
-WordPress plugin to add a new user role, Inactive user. This can be used if wh want to keep a user, but still not delete it.
+WordPress plugin to add a new user role, Inactive user. This can be used if wh want to keep a user, but still not delete the user, and loose posts.
 
 Installation
 -----------
